@@ -3,5 +3,5 @@ config.json
 temp/
 ignore-lab/*.css
 !ignore-lab/style.css
-ignore-lab/build/
+ignore-lab/build/*
 !ignore-lab/build/README.md
